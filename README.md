@@ -1,2 +1,4 @@
-# Ola mundo
- Curso em vídeo
+# Olá, mundo!
+ Curso em vídeo, estou aprendendo é impressionante.
+ 
+
